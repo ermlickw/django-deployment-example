@@ -25,7 +25,7 @@ SECRET_KEY = '^786)$6f8j4%)mbpb&azs#8cq0m9sb-@or%c+81g)8s&r6d4dp'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["ermlickw.pythonanywhere.com"]
 
 
 # Application definition
